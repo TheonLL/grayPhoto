@@ -1,2 +1,2 @@
 grayPhoto
-etsa
+灰度图像提取
